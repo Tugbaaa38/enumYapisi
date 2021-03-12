@@ -13,7 +13,7 @@ int main() {
 		Kis
 	}hangiMevsim;
 	
-	hangiMevsim=4;
+	hangiMevsim=IIkbahar;              burada hangiMevsim=1 diyemeyiz..!!!
 	
 	switch(hangiMevsim)
 	{
